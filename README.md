@@ -21,4 +21,4 @@ Passionate about my transformation into a Web3 developer. Join me on this exciti
 - Blockchain Development
 
 ## Connect with Me
-- [Twitter](https://twitter.com/Merlin2100NFT)
+- [Twitter](https://twitter.com/Merlin2100)
