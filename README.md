@@ -14,11 +14,12 @@ Passionate about my transformation into a Web3 developer. Join me on this exciti
 - SAP LES (Logistics Execution System)
 
 ## I’m currently learning ...
-- Smart Contracts
-- Solidity
-- Java Script
-- Web3.js
-- Blockchain Development
+- 🪙 Develop ERC-20 token
+- 🧪 Test-driven smart contract development
+- 🔄 Exchange smart contract implementation
+- 💼 Solidity
+- 📜 JavaScript
+- ⚛️ React
 
 ## Connect with Me
-- [Twitter](https://twitter.com/Merlin2100)
+- 𝕏 [Twitter](https://twitter.com/Merlin2100)
